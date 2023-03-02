@@ -1,0 +1,92 @@
+body {
+    background-color: #e7879a;
+}
+
+.callout {
+    background-color: #e7879a;
+}
+
+
+
+
+
+.slike {
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.slika {
+    width: 250px;
+    height: 400px;
+
+}
+
+
+
+.loz, .ime {
+    width: 400px;
+    font-size: 20px;
+}
+
+
+
+.btn {
+    background-color: #e7879a;
+    color: black;
+    margin-top: 15px;
+    font-size: 20px;
+    margin-top:5px; 
+    border-radius: 100px; 
+    border-color:white;
+    padding: 8px; 
+    width: 250px;
+    
+}
+
+
+table {
+    margin-left: 45px;
+    margin-top: 30px;
+    font-size: 20px;
+    width: 800px;
+    text-align: center;
+}
+
+
+
+.btnser, .btng, .btnb {
+    margin-left: 160px;
+    width: 600px;
+}
+
+
+table {
+    margin-left: 45px;
+    margin-top: 30px;
+    font-size: 20px;
+    width: 800px;
+    text-align: center;
+}
+
+
+
+
+.progress-label-left
+{
+    float: left;
+    margin-right: 0.5em;
+    line-height: 1em;
+}
+.progress-label-right
+{
+    float: right;
+    margin-left: 0.3em;
+    line-height: 1em;
+}
+.star-light
+{
+	color:#e9ecef;
+}
+
